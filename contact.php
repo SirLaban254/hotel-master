@@ -43,7 +43,7 @@
 
 
     <section class="tm-main">
-        <p>Contact.</p>
+        <p>Contact</p>
     </section>
 
     <section class="tm-booking">
