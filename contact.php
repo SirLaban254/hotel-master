@@ -52,7 +52,7 @@
             <input type="email" id="em" placeholder="Email Address" name="email" required><br><br>
 
             <!-- Assuming you have a field for phone number -->
-            <label for="phone">Phone Number:.</label><br>
+            <label for="phone">Phone Number:</label><br>
             <input type="text" id="phone" placeholder="Phone Number" name="phone_number" required><br><br>
 
             <label for="message">Message:</label><br>
