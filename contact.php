@@ -16,22 +16,12 @@
 
     <!-- Replace YOUR_API_KEY with your actual Google Maps API key -->
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
+    <?php include_once ("template/nav.php"); ?>
+
+    <?php require_once ("includes/db2_connect.php"); ?>
+
 
     <?php
-    // Database connection
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
-    $dbname = "hotel_management";
-
-    // Create connection
-    $conn = new mysqli($servername, $username, $password, $dbname);
-
-    // Check connection
-    if ($conn->connect_error) {
-        die("Connection failed: " . $conn->connect_error);
-    }
-
     if (isset($_POST["send_message"])) {
         $email = mysqli_real_escape_string($conn, $_POST["email"]);
         $num = mysqli_real_escape_string($conn, $_POST["phone_number"]);
@@ -50,14 +40,14 @@
 </head>
 
 <body style="background-color: rgb(230, 210, 220);">
-    <?php include_once ("template/nav.php"); ?>
+
 
     <section class="tm-main">
-        <p>Contact</p>
+        <p>Contact.</p>
     </section>
 
     <section class="tm-booking">
-        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="contacts_form">
+        <form action="<?php print htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="contacts_form">
             <label for="em">Email Address:</label><br>
             <input type="email" id="em" placeholder="Email Address" name="email" required><br><br>
 
