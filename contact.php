@@ -55,7 +55,7 @@
             <label for="phone">Phone Number:</label><br>
             <input type="text" id="phone" placeholder="Phone Number" name="phone_number" required><br><br>
 
-            <label for="message">Message:</label><br>
+            <label for="message">Message:,</label><br>
             <textarea name="message" id="message" cols="30" rows="5" required></textarea><br><br>
 
             <input type="submit" name="send_message" value="Send Message">
