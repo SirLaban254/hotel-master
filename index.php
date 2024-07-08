@@ -46,7 +46,7 @@
                     <div class="tm-slidertext">
                         <p class="bold"> Expierence</p>
                         <p class="simple">The tranquility </p>
-                        <p class="simple">in hotel spa and swimming pool </p>
+                        <p class="simple">in hotel spa and swimming poo</p>
                     </div>
                 </div>
             </div>
