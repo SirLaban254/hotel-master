@@ -48,7 +48,7 @@
 
     <section class="tm-booking">
         <form action="<?php print htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="POST" class="contacts_form">
-            <label for="em">Email Address:.</label><br>
+            <label for="em">Email Address:</label><br>
             <input type="email" id="em" placeholder="Email Address" name="email" required><br><br>
 
             <!-- Assuming you have a field for phone number -->
