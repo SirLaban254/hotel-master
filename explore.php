@@ -28,7 +28,7 @@
 
       <div class="tm-exp1">
 
-         <p> Luxorious and Spacious Rooms</p>
+         <p> Luxorious and Spacious Room</p>
          <img src="images/luxorius.png">
 
       </div>
