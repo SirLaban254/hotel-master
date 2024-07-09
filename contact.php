@@ -78,7 +78,7 @@
         <div class="tm-us">
             <p class="bold">About Us</p>
             <p>We are a part of chain of luxury hotels which extends all over the world. We provide a luxurious stay
-                with various value-added and free services which will make you visit us over and over again.</p>
+                with various value-added and free services which will make you visit us time and over again.</p>
         </div>
 
         <br />
