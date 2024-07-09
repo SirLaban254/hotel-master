@@ -184,7 +184,7 @@
                         <img src="images/star.png">
                     </div>
                     <div class="tm-rev">
-                        <p> Great hotel, I am recommending it to everyone. Wished I stayed few more days there.</p>
+                        <p> Great hotel, I am recommending it to everyone. Wished I stayed for a few more days there.</p>
                         <br />
                         <p> Rachel Green &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Tripster</p>
                     </div>
