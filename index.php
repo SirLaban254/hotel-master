@@ -218,7 +218,7 @@
                         <img src="images/star.png">
                     </div>
                     <div class="tm-rev">
-                        <p> Great hotel, Great food enough said. </p> <br />
+                        <p> Great hotel, Great food, Great services enough said. </p> <br />
                         <p> Joey Tribiani &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Actor</p>
                     </div>
 
