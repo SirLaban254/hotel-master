@@ -160,7 +160,7 @@
             <img class="tm-serimage" src="images/spa.png">
             <div>
                 <p class="b">Free Spa</p>
-                <p> Relax at the inhouse Spa once every day of your stay </p>
+                <p> Relax at the inhouse Spa once every day of your stay. Its an exciting experience </p>
             </div>
         </div>
 
