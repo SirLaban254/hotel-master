@@ -64,7 +64,7 @@
                     <div class="tm-slidertext">
                         <p class="bold"> Expirence</p>
                         <p class="simple">The mesmerizing beach view </p>
-                        <p class="simple">from your room's balcony.</p>
+                        <p class="simple">from your room's balcony</p>
                     </div>
                 </div>
             </div>
