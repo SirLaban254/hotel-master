@@ -153,7 +153,7 @@
             <img class="tm-serimage" src="images/car-front.png">
             <div>
                 <p class="b">Free Parking</p>
-                <p> No need to pay any extra charges to park your vehicles </p>
+                <p> No need to pay any extra charges to park your vehicle </p>
             </div>
         </div>
         <div class="tm-service">
