@@ -136,7 +136,7 @@
             <img class="tm-serimage" src="images/bell.png">
             <div>
                 <p class="b">Room Service</p>
-                <p> Enjoy your stay with excellent and timely room service </p>
+                <p> Enjoy your stay with  timely room service </p>
             </div>
         </div>
         <div class="tm-service">
