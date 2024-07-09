@@ -55,7 +55,7 @@
                     <div class="tm-slidertext">
                         <p class="bold"> Expierence</p>
                         <p class="simple">The luxorious interiors </p>
-                        <p class="simple">n every hotel room we have</p>
+                        <p class="simple">in every hotel room we have</p>
                     </div>
                 </div>
             </div>
