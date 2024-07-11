@@ -17,11 +17,11 @@
 
 
 </head>
-<?php include_once("template/nav.php");?>
-    <?php include_once("template/footer.php");?>
+<?php include_once ("template/nav.php"); ?>
+<?php include_once ("template/footer.php"); ?>
 
 <body>
-   
+
 
     <section class="tm-main">
         <p>Booking</p>

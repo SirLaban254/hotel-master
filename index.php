@@ -45,7 +45,7 @@
                 <div class="tm-slider"><img class="tm-sliderimage" src="images/main_slider12.png" alt="Majestic Hotel">
                     <div class="tm-slidertext">
                         <p class="bold"> Expierence</p>
-                        <p class="simple">The tranquility </p>
+                        <p class="simple">The tranquility. </p>
                         <p class="simple">in hotel spa and swimming pool</p>
                     </div>
                 </div>
